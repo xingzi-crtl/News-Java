@@ -1,0 +1,2 @@
+采用前后端分离技术
+前端vue后端springboot
